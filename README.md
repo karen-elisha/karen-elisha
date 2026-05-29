@@ -1,11 +1,120 @@
-- 👋 Hi, I’m @karen-elisha
-- 👀 I’m interested in Science, Technology and Engineering. 
-- 🌱 I’m currently learning Python, Java and SQL.
-- 💞️ I’m looking to collaborate on coding projects.
-- 📫 How to reach me: www.linkedin.com/in/karen-elisha-chezhiyan 
-- ⚡ Fun fact: Error 404: procrastination skills not found(just kidding, I'm working on it!)
+<div align="center">
 
-<!---
-karen-elisha/karen-elisha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║      KAREN ELISHA CHEZHIYAN  //  ENGINEER IN PROGRESS   ║
+║      Bengaluru, India  ·  Science × Code × Curiosity    ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-karen--elisha--chezhiyan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karen-elisha-chezhiyan)
+[![GitHub](https://img.shields.io/badge/GitHub-karen--elisha-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karen-elisha)
+
+</div>
+
+---
+
+## `$ whoami`
+
+> Engineering student on a mission to sit at the intersection of **cutting-edge technology** and **unsolved scientific problems**. I believe the best code doesn't just run — it *answers questions the world hasn't thought to ask yet*.
+
+- 🔬 Fascinated by the overlap of **science and software**
+- 🤖 Building things with **AI, multi-agent systems, and RAG pipelines**
+- 🚌 Making the real world smarter — from **school transport safety** to **internship discovery**
+- 🕹️ Sometimes I make games. Cybersecurity-themed ones. Because why not.
+- 📍 Based in Bengaluru · Always building something
+
+---
+
+## `$ ls ./skills`
+
+<div align="center">
+
+| Layer | Stack |
+|:---|:---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **AI / Data** | ![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6B6B?style=flat-square) ![Pinecone](https://img.shields.io/badge/Pinecone-00B67A?style=flat-square) ![Multi--Agent](https://img.shields.io/badge/Multi--Agent_AI-9B59B6?style=flat-square) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+
+</div>
+
+---
+
+## `$ cat ./projects`
+
+### 🧠 [`ai-multi-agent-rag`](https://github.com/karen-elisha/ai-multi-agent-rag)
+> Multi-agent AI system powered by RAG + Pinecone vector search  
+> *Because one agent is never enough.*  
+> `Python` · `AI` · `Vector Databases`
+
+---
+
+### ✈️ [`airlines-management-system`](https://github.com/karen-elisha/airlines-management-system)
+> Full-stack airline management web app — bookings, routes, the works  
+> `HTML/CSS/JS` · `PHP` · `MySQL`
+
+---
+
+### 🕹️ [`hacking-puzzle-game`](https://github.com/karen-elisha/hacking-puzzle-game)
+> A cybersecurity-themed **multiplayer puzzle game** — learn hacking concepts while playing  
+> *Learning security shouldn't be boring.*  
+> `HTML` · `Game Design` · `Cybersecurity`
+
+---
+
+### 🎓 [`InternMarg`](https://github.com/karen-elisha/InternMarg)
+> Internship Recommendation System that takes the guesswork out of finding opportunities  
+> `HTML` · `Recommendation Engine`
+
+---
+
+### 🚌 [`Schuber`](https://github.com/karen-elisha/Schuber)
+> Real-time school transport monitoring platform — parents track vans, drivers manage trips, admins ensure safety  
+> *GPS + accountability, built for schools.*  
+> `JavaScript` · `Real-time Systems` · `Safety Tech`
+
+---
+
+## `$ cat ./github_stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=karen-elisha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karen-elisha&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+---
+
+## `$ cat ./currently_running`
+
+```python
+class KarenElisha:
+    def __init__(self):
+        self.role        = "Engineering Student"
+        self.location    = "Bengaluru, India"
+        self.learning    = ["Python", "Java", "SQL", "AI Systems"]
+        self.building    = ["Multi-agent AI", "Real-world safety tech"]
+        self.open_to     = ["Internships", "Collaborations", "Research"]
+        self.superpower  = "Turning scientific curiosity into working software"
+
+    def fun_fact(self):
+        return "Error 404: Procrastination skills not found (actively patching this bug)"
+```
+
+---
+
+## `$ echo ./connect`
+
+<div align="center">
+
+📬 Reach me on **[LinkedIn](https://www.linkedin.com/in/karen-elisha-chezhiyan)** — I'm always open to learning, collaborating, and building things that matter.
+
+*"The best engineers ask the most interesting questions."*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=karen-elisha&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>
