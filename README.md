@@ -43,42 +43,6 @@
 
 ---
 
-## `$ cat ./projects`
-
-### 🧠 [`ai-multi-agent-rag`](https://github.com/karen-elisha/ai-multi-agent-rag)
-> Multi-agent AI system powered by RAG + Pinecone vector search  
-> *Because one agent is never enough.*  
-> `Python` · `AI` · `Vector Databases`
-
----
-
-### ✈️ [`airlines-management-system`](https://github.com/karen-elisha/airlines-management-system)
-> Full-stack airline management web app — bookings, routes, the works  
-> `HTML/CSS/JS` · `PHP` · `MySQL`
-
----
-
-### 🕹️ [`hacking-puzzle-game`](https://github.com/karen-elisha/hacking-puzzle-game)
-> A cybersecurity-themed **multiplayer puzzle game** — learn hacking concepts while playing  
-> *Learning security shouldn't be boring.*  
-> `HTML` · `Game Design` · `Cybersecurity`
-
----
-
-### 🎓 [`InternMarg`](https://github.com/karen-elisha/InternMarg)
-> Internship Recommendation System that takes the guesswork out of finding opportunities  
-> `HTML` · `Recommendation Engine`
-
----
-
-### 🚌 [`Schuber`](https://github.com/karen-elisha/Schuber)
-> Real-time school transport monitoring platform — parents track vans, drivers manage trips, admins ensure safety  
-> *GPS + accountability, built for schools.*  
-> `JavaScript` · `Real-time Systems` · `Safety Tech`
-
----
-
-
 ## `$ cat ./currently_running`
 
 ```python
