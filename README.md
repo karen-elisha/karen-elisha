@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
-                ╔══════════════════════════════════════════════════════════╗
-                ║                                                          ║
-                ║      KAREN ELISHA CHEZHIYAN  //  ENGINEER IN PROGRESS    ║
-                ║      Bengaluru, India  ·  Science × Code × Curiosity     ║
-                ║                                                          ║
-                ╚══════════════════════════════════════════════════════════╝
+     ╔══════════════════════════════════════════════════════════╗
+     ║                                                          ║
+     ║      KAREN ELISHA CHEZHIYAN  //  ENGINEER IN PROGRESS    ║
+     ║      Bengaluru, India  ·  Science × Code × Curiosity     ║
+     ║                                                          ║
+     ╚══════════════════════════════════════════════════════════╝
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-karen--elisha--chezhiyan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karen-elisha-chezhiyan)
